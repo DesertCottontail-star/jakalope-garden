@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/utilities/2025-qr-codes/"}
+{"dg-publish":true,"permalink":"/utilities/2025-qr-codes/","tags":["gardenEntry"]}
 ---
 
 
